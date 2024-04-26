@@ -31,6 +31,6 @@ The script will fetch historical stock price data, perform statistical analysis,
 
 This project is for educational and informational purposes only. Predictions made by the Monte Carlo simulation should not be considered financial advice. Always conduct thorough research and consult with a financial advisor before making investment decisions.
 
-# ---------------------------------------------------------------------------
+# --------------------------------------------------------------
 
 Feel free to customize and expand upon this README as needed for your project!
